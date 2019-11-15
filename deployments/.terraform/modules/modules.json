@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"dns","Source":"../modules/cf_dns","Dir":"../modules/cf_dns"},{"Key":"gcp_nginx","Source":"../modules/gcp_vm","Dir":"../modules/gcp_vm"}]}
